@@ -1,1 +1,2 @@
-# 6IV6_proyecto_SamanoArias
+# 6IV6_proyecto_SamanoArias 
+ESTA ES UNA PRACTICA PARA SOPORTE DE SOFTWARE
